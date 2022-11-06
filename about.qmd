@@ -5,4 +5,9 @@ about:
   template: jolla
 ---
 
-scoop bid a bap bap bow clap clap bow clap clap
+<div style="text-align: justify">
+<p style="font-family:Gothic Round B">
+a project aimed at increasing mental autonomy in the otautahi urban area through a series of semi-legal, semi-artistic, subpoetic bulletins. to create fruitful networks, i will need anonymous participation from those who find the bulletins.  don't hesitate to reach out to
+aparticularist@proton.me
+</p>
+</div>

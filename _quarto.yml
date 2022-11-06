@@ -2,6 +2,7 @@ project:
   type: website
 
 website:
+  favicon: profile.png
   title: "aparticularist"
   navbar:
     right:
