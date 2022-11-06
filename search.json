@@ -19,19 +19,5 @@
     "title": "about",
     "section": "",
     "text": "a project aimed at increasing mental autonomy in the otautahi urban area through a series of semi-legal, semi-artistic, subpoetic bulletins. to create fruitful networks, i will need anonymous participation from those who find the bulletins. don’t hesitate to reach out to aparticularist@proton.me"
-  },
-  {
-    "objectID": "test.html",
-    "href": "test.html",
-    "title": "Page",
-    "section": "",
-    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org/."
-  },
-  {
-    "objectID": "test.html#running-code",
-    "href": "test.html#running-code",
-    "title": "Page",
-    "section": "Running Code",
-    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:"
   }
 ]
