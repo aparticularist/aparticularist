@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://aparticularist.github.io/aparticularist/posts/post-with-code/index.html</loc>
-    <lastmod>2022-11-06T05:11:43.091Z</lastmod>
-  </url>
-  <url>
-    <loc>https://aparticularist.github.io/aparticularist/posts/welcome/index.html</loc>
-    <lastmod>2022-11-06T05:11:43.398Z</lastmod>
+    <loc>https://aparticularist.github.io/aparticularist/posts/the_words_that_come_before/index.html</loc>
+    <lastmod>2022-11-06T10:34:52.979Z</lastmod>
   </url>
   <url>
     <loc>https://aparticularist.github.io/aparticularist/index.html</loc>
-    <lastmod>2022-11-06T05:11:43.706Z</lastmod>
+    <lastmod>2022-11-06T10:34:53.297Z</lastmod>
   </url>
   <url>
     <loc>https://aparticularist.github.io/aparticularist/about.html</loc>
-    <lastmod>2022-11-06T05:11:43.981Z</lastmod>
+    <lastmod>2022-11-06T10:34:53.587Z</lastmod>
   </url>
   <url>
     <loc>https://aparticularist.github.io/aparticularist/test.html</loc>
-    <lastmod>2022-11-06T05:11:44.600Z</lastmod>
+    <lastmod>2022-11-06T10:34:55.717Z</lastmod>
   </url>
 </urlset>
