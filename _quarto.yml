@@ -1,0 +1,15 @@
+project:
+  type: website
+
+website:
+  title: "aparticularist"
+  navbar:
+    right:
+      - about.qmd
+format:
+  html:
+    theme: 
+      - litera
+    css: styles.css
+
+mainfont: "Gothic Round B"
