@@ -5,4 +5,4 @@ about:
   template: jolla
 ---
 
-About this blog flag
+scoop bid a bap bap bow clap clap bow clap clap
